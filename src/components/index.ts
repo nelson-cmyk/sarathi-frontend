@@ -8,3 +8,4 @@ export { default as WbSectionWrapper } from '@/components/website/wrappers/WbSec
 // App components ---
 export { default as FormInput } from '@/components/app/form/FormInput';
 export { default as FormPassword } from '@/components/app/form/FormPassword';
+export { default as SubmitBtn } from '@/components/app/form/SubmitBtn';
